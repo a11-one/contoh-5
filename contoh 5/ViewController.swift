@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var variableContoh: String = "Contoh saja"
 
     override func viewDidLoad() {
         super.viewDidLoad()
